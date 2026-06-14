@@ -1,1 +1,1 @@
-Select * from world
+Select * from world where isinactive=1
